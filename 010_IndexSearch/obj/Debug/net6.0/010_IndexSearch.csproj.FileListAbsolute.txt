@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\bin\Debug\net6.0\010_IndexSearch.exe
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\bin\Debug\net6.0\010_IndexSearch.deps.json
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\bin\Debug\net6.0\010_IndexSearch.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\bin\Debug\net6.0\010_IndexSearch.dll
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\bin\Debug\net6.0\010_IndexSearch.pdb
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.dll
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\refint\010_IndexSearch.dll
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.pdb
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\010_IndexSearch.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\010_IndexSearch\obj\Debug\net6.0\ref\010_IndexSearch.dll

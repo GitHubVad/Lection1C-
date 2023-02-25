@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\bin\Debug\net6.0\011_AutoArray.exe
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\bin\Debug\net6.0\011_AutoArray.deps.json
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\bin\Debug\net6.0\011_AutoArray.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\bin\Debug\net6.0\011_AutoArray.dll
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\bin\Debug\net6.0\011_AutoArray.pdb
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.dll
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\refint\011_AutoArray.dll
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.pdb
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\011_AutoArray.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\С#\Lection2\011_AutoArray\obj\Debug\net6.0\ref\011_AutoArray.dll
